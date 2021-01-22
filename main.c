@@ -3,8 +3,8 @@
 ///            Centro de Ensino Superior do Seridó                 ///   
 ///            Bacharelado em Sistema de Informação                ///   
 ///              Disciplina DCT1106 -- Programação                 ///   
-///   Projeto Controle de fluxo para entrada e saida de veiculos   ///   
-///         Developed by  Ítalo G and Lucas V - Jan, 2021          ///   
+///         Um Sistema de Controle de Fluxo de Veículos            ///   
+///      Developed by  @italx_g and @sza_lucas - Jan, 2021         ///   
 //////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
@@ -20,14 +20,14 @@ int main(void) {
 
 
 void menuSobre(void) {
-    printf("         ////////////////////////////////////////////////////////////////////////////\n");
-    printf("        ///                 ///                                                  ///\n");
-    printf("       ///      *BSI*      ///                                                  ///\n");
-    printf("      ///                 ///                                                  ///\n");
-    printf("     ///////////////////////                                                  ///\n");
-    printf("    ///                                                                      ///\n");
-    printf("   ///                                                                      ///\n");
-    printf("  ///                                                                      ///\n");
-    printf(" ///                                                                      ///\n");
-    printf("////////////////////////////////////////////////////////////////////////////\n");
+    printf("/////////////////////////////////////////////////////////////////////////////\n");
+    printf("///                             CFSEV                                     ///\n");
+    printf("///                  Controle do fluxo de veiculos                        ///\n");
+    printf("/////////////////////////////////////////////////////////////////////////////\n");
+    printf("///                                                                       ///\n");
+    printf("///   Esse programa ira controlar o fluxo de veiculos para a entrada e    ///\n");
+    printf("///   saida em estacionamentos, tendo como alvo as instituicoes publicas  ///\n");
+    printf("///   ou privadas que oferecem estacionamento gratuito.                   ///\n");
+    printf("///                                                                       ///\n");
+    printf("/////////////////////////////////////////////////////////////////////////////\n");
 }
