@@ -5,7 +5,7 @@
 ///              Disciplina DCT1106 -- Programação                 ///   
 ///         Um Sistema de Controle de Fluxo de Veículos            ///   
 ///      Developed by  @italx_g and @sza_lucas - Jan, 2021         ///   
-//////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 #include <stdlib.h>
