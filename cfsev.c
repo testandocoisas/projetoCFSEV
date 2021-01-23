@@ -19,16 +19,18 @@ int main(void) {
 
 
 void menuSobre(void) {
-    printf(" ___________________________________________________________________________\n");
-    printf("|                                                                           |\n");
-    printf("|                         = = = = CFSEV = = = =                             |\n");
-    printf("|                     Controle do fluxo de veiculos                         |\n");
-    printf("|___________________________________________________________________________|\n");
-    printf("|                                                                           |\n");
-    printf("|     Programa utilizado na disciplina DCT1106 - Programação. Esse pro-     |\n");
-    printf("|   grama ira controlar o fluxo de veiculos para a entrada e saida em       |\n");
-    printf("|   estacionamentos, tendo como alvo as instituicoes publicas ou priva-     |\n");
-    printf("|   das que oferecem estacionamento gratuito.                               |\n");
-    printf("|                                                                           |\n");
-    printf("|___________________________________________________________________________|\n");
+    printf(" __________________________________________________________________________________\n");
+    printf("|                                                                                  |\n");
+    printf("|                              = = = = CFSEV = = = =                               |\n");
+    printf("|                           Controle do fluxo de veiculos                          |\n");
+    printf("|__________________________________________________________________________________|\n");
+    printf("|                                                                                  |\n");
+    printf("|          Programa utilizado na disciplina DCT1106 - Programação. Esse pro-       |\n");
+    printf("|        grama ira controlar o fluxo de veiculos para a entrada e saida em         |\n");
+    printf("|        estacionamentos, tendo como alvo as instituicoes publicas ou priva-       |\n");
+    printf("|        das que oferecem estacionamento gratuito.                                 |\n");
+    printf("|__________________________________________________________________________________|\n");
+    printf("|                                                                                  |\n");
+    printf("| Developed by Italo Guilherme (@italx_g) and Lucas Souza (@sza_lucas) - Jan, 2021 |\n");
+    printf("|__________________________________________________________________________________|\n");
 }
