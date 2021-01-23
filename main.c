@@ -12,7 +12,6 @@
 #include <locale.h>
 
 void menuSobre(void);
-
 int main(void) {
     menuSobre();
     return 0;
@@ -21,11 +20,11 @@ int main(void) {
 
 void menuSobre(void) {
     printf("/////////////////////////////////////////////////////////////////////////////\n");
-    printf("///                             CFSEV                                     ///\n");
-    printf("///                  Controle do fluxo de veiculos                        ///\n");
+    printf("///                                 CFSEV                                 ///\n");
+    printf("///                     Controle do fluxo de veiculos                     ///\n");
     printf("/////////////////////////////////////////////////////////////////////////////\n");
     printf("///                                                                       ///\n");
-    printf("///   Esse programa ira controlar o fluxo de veiculos para a entrada e    ///\n");
+    printf("///     Esse programa ira controlar o fluxo de veiculos para a entrada e  ///\n");
     printf("///   saida em estacionamentos, tendo como alvo as instituicoes publicas  ///\n");
     printf("///   ou privadas que oferecem estacionamento gratuito.                   ///\n");
     printf("///                                                                       ///\n");
